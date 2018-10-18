@@ -1,0 +1,66 @@
+{
+    "tb": {
+        "navigation_opt": "浏览",
+        "rendering_opt": "界面设置",
+        "tools_opt": "工具选项",
+        "measurments_opt": "测量结果",
+        "annotations_opt": "注释",
+        "materials_opt": "材质",
+        "scene_opt": "场景",
+        "classification_filter_opt": "分类",
+        "parameters_opt": "参数设置",
+        "about_opt": "关于我们"
+    },
+    "tt": {
+        "angle_measurement": "角度测量",
+        "distance_measurement": "距离测量",
+        "height_measurement": "标高测量",
+        "area_measurement": "面积测量",
+        "volume_measurement": "体积测量",
+        "height_profile": "剖面",
+        "clip_volume": "剖切体积",
+        "remove_all_measurement": "清除",
+        "left_view_control": "左部视图",
+        "front_view_control": "前视视图",
+        "top_view_control": "顶部试图",
+        "focus_control": "焦点控制",
+        "orbit_control": " 轨迹",
+        "flight_control": "飞行模式",
+        "earth_control": "地球"
+    },
+    "appearance": {
+        "nb_max_pts": "点云数量",
+        "point_size": "点尺寸",
+        "point_opacity": "不透明度",
+        "field_view": "视野",
+        "point_size_type": "点类型",
+        "point_material": "点材质",
+        "elevation_range": "平面范围",
+        "point_quality": "点云质量",
+        "edl_radius": "点云半径",
+        "edl_strength": "点云强度",
+        "edl_enable": "允许点云",
+        "min_node_size": "最小点尺寸",
+        "clip_mode": "剖切模式",
+        "move_speed": "移动速度",
+        "skybox": "天空视图",
+        "bottom_lock": "地面锁定",
+        "box": "空间剖切",
+        "freeze": "固定",
+        "language": "语言"
+    },
+    "profile": {
+        "nb_points": "点云编号",
+        "title": "标题",
+        "save_las": "另存为LAS(3D)",
+        "save_ortho": "另存为CSV",
+        "save": "保存"
+    },
+	"scene": {
+		"camera_position": "相机位置",
+		"camera_target": "相机目标"
+	},
+    "settings": {
+        "language": "语言"
+    }
+}
